@@ -1,9 +1,6 @@
-# Sharpening my sword⚔️👑
-So I've been learning all this new cool stuff in regards with programming
-And man I'm loving it so I took up a few classes in frontend 
-Dev and I find it in really neat we can make anything by just 
-Manipulating a few attributes of elements within a container 
-This also gave me a different perspective of how things really
-Work and relate to each othe
+⚔️ Sharpening My Sword 👑
+Hey there! I've been diving into the world of programming lately and it's been an exciting journey. I'm especially enjoying front-end development — it's amazing how we can build anything just by manipulating a few attributes of elements within a container.
 
-Anyways I'm glad I got to do this first design😌
+Taking up a few classes in front-end dev has completely changed the way I see how things work and relate to each other on the web. It's like unlocking a new layer of understanding, and honestly, I'm loving every minute of it.
+
+This portfolio marks my first design, and I'm proud to share it with you. 😌
